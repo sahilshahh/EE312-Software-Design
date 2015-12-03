@@ -1,9 +1,3 @@
-/*  Shah, Sahil
-	ss63683	
-	16215
-	EE 312 Assignment 1
-*/
-
 #include <stdio.h>
 int main( void )
 {

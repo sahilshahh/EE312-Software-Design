@@ -1,9 +1,3 @@
-/* Shah, Sahil
-   ss63683
-   16215
-   EE312-Assignment 2
-*/
-
 #include <stdio.h>
 #include <math.h>
 #include "assignment-2.h"

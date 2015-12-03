@@ -1,10 +1,3 @@
-/*
-	Name: Shah, Sahil
-    UT EID: ss63683
-    Section: 16215
-    EE312-Assignment 4
-*/
-
 #define FALSE 0
 #define TRUE 1
 
